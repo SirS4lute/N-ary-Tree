@@ -17,7 +17,7 @@ Root node, with subtrees as children
 Each node has 0, 1 or N children
 ```
 Basically an N-Ary Tree follows the same concepts as a Binary Tree, with some adjustments to its calculations, like changing the constant 2 (binary) to a N variable.
-You can see more on [Binary-Tree](https://github.com/SirS4lute/Binary-Tree)
+You can see more on [Binary-Tree](https://github.com/SirS4lute/Binary-Tree).
 
 ### Functions we are using to operate n-ary trees in this repository
 ```
@@ -59,6 +59,8 @@ Nó raiz, com sub-árvores como filhos
     
 Cada nó tem 0, 1 ou N filhos    
 ```
+
+Basicamente uma Árvore N-Ária segue os mesmos conceitos de uma Árvore Binária, com alguns ajustes em seus cálculos, como a mudança da constante 2 (binária) para uma variável N. Você pode ver mais em [Árvore Binária](https://github.com/SirS4lute/Binary-Tree).
 
 ### Funções que estamos utilizando para operar árvores n-árias nesse repositório
 ```
